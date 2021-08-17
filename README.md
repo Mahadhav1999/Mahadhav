@@ -5,8 +5,11 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Mahadhav-yellow)](https://stackoverflow.com/users/16685664/mahadhav-)
 
 I'm
-Currently Intern at Edureka! Full Stack Web Developement Internship Program , Currently as a Student studying B.E In Computer Science and Engineering in the Final Year of Graduation.
-The crossover between design and programming has always been of interest to me,.I have a minimum knowledge of HTML , CSS, AND SQL.
+Currently Intern at Edureka! Full Stack Web Developement Internship Program ,Strong in design and integration with intuitive problem-solving skills
+Passionate about implementing and launching new projects.
+
+💬 Ask me about ...- 🌱 I’m currently learning ...
+📫 You can reach me:  <a href="mailto:mahadhavdhobale@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
 
 
 
