@@ -12,7 +12,6 @@ Passionate about implementing and launching new projects.
 📫 You can reach me:  <a href="mailto:mahadhavdhobale@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
 
 
-
 ![Visitor Count](https://profile-counter.glitch.me/Mahadhav1999/count.svg)
 
 <div>
